@@ -9,7 +9,7 @@ const fs= require("fs");
 //fs.unlinkSync("Text.txt");
 
 
-/* Asynchronous */
+ Asynchronous 
 /*fs.writeFile('text.txt',"Happy christmas::::;", (err)=>{
     console.log("file created");
     console.log(err);
